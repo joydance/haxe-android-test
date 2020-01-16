@@ -2,7 +2,7 @@
 -main Main
 -java out/java
 
---java-lib E:\SDK\android\SDK\platforms\android-28\android.jar
+--java-lib lib\android.jar
 --java-lib lib\appcompat-1.1.0-api.jar
 --java-lib lib\fragment-1.1.0-api.jar
 --java-lib lib\appcompat-resources-1.1.0-api.jar
